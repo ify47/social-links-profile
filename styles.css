@@ -56,6 +56,12 @@ h3 {
     margin-top: 20px;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 .platforms {
     width: 233px;
     background-color: var(--Grey);
