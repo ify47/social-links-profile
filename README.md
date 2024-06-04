@@ -1,4 +1,4 @@
-# Frontend Mentor - Results Summary Component
+# Frontend Mentor - Social Links Profile
 
 This project is a solution to the [Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) from Frontend Mentor.
 
